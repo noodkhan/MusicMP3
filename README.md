@@ -3,6 +3,7 @@
   <h3>For Python2 : pip install pytube</h3>
   <h3>For Python3 : pip3 install pytube</h3>
   <h3>For pyube3 : pip install pytube3</h3>
+  <h3>pip install os_sys</h3>
 </div>
 
 <p>
