@@ -1,8 +1,8 @@
 <h2>Python Technology</h2>
-<div style="background-color:white">  
-  <p>For Python2 : pip install pytube</p>
-  <p>For Python3 : pip3 install pytube</p>
-  <p>For pyube3 : pip install pytube3</p>
+<div style="text-color:white">  
+  <h1>For Python2 : pip install pytube</h1>
+  <h1>For Python3 : pip3 install pytube</h1>
+  <h1>For pyube3 : pip install pytube3</h1>
 </div>
 
 <p>
