@@ -1,4 +1,10 @@
 <h2>Python Technology</h2>
+<div style="background-color:white">  
+  <p>For Python2 : pip install pytube</p>
+  <p>For Python3 : pip3 install pytube</p>
+  <p>For pyube3 : pip install pytube3</p>
+</div>
+
 <p>
 Download Video in MP3 format using PyTube
 Last Updated : 25 Feb, 2021
