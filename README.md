@@ -1,5 +1,5 @@
 <h2>Python Technology</h2>
-<div style="text-color:white">  
+<div>  
   <h1>For Python2 : pip install pytube</h1>
   <h1>For Python3 : pip3 install pytube</h1>
   <h1>For pyube3 : pip install pytube3</h1>
