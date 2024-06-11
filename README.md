@@ -1,8 +1,8 @@
 <h2>Python Technology</h2>
 <div>  
-  <h1>For Python2 : pip install pytube</h1>
-  <h1>For Python3 : pip3 install pytube</h1>
-  <h1>For pyube3 : pip install pytube3</h1>
+  <h3>For Python2 : pip install pytube</h3>
+  <h3>For Python3 : pip3 install pytube</h3>
+  <h3>For pyube3 : pip install pytube3</h3>
 </div>
 
 <p>
