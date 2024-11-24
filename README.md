@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Music Downloader Roadmap (Python)</title>
 </head>
 <body>
-    <h2>🎵 YouTube Music Downloader (Python)</h1>
+    <h1>🎵 YouTube Music Downloader (Python)</h1>
     <h2>Introduction</h2>
     <p>
         This repository contains a Python-based YouTube Music Downloader, which allows users to download audio from YouTube videos. The project integrates with the <strong>YouTube API</strong> or uses libraries like <strong>pytube</strong> or <strong>yt-dlp</strong> to fetch and download music in various formats (MP3, WAV, etc.).
